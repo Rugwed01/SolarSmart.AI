@@ -124,5 +124,3 @@ Feel free to use, modify, and share responsibly.
 ---
 
 🌱 *SolarSmart.AI – Powering a Sustainable Future with Data & Intelligence* ⚡
-
-```
