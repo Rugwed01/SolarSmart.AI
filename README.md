@@ -1,4 +1,3 @@
-````markdown
 # ⚡ SolarSmart.AI  
 *AI-Powered Solar Performance & Predictive Analytics*  
 
