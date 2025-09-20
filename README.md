@@ -1,7 +1,7 @@
 # ⚡ SolarSmart.AI  
 *AI-Powered Solar Performance & Predictive Analytics*  
 
-![SolarSmart.AI Banner](https://via.placeholder.com/1200x400?text=SolarSmart.AI)  
+![SolarSmart.AI Banner](https://in.images.search.yahoo.com/images/view;_ylt=AwrKBI8bvc5oOLchXhW9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzdjMjkzMjU0MjNiMjJhMmIxMmU1YWJiNDg1MTM3YjVlBGdwb3MDNQRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dsolarsmart.ai%26type%3DE210IN885G91938%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D5&w=2000&h=1333&imgurl=img.freepik.com%2Fpremium-photo%2Fsolar-panel-cell-smart-grid-ai-generated_499459-888.jpg%3Fw%3D2000&rurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fsolar-panel-cell-smart-grid-ai-generated_62528280.htm&size=220KB&p=solarsmart.ai&oid=7c29325423b22a2b12e5abb485137b5e&fr2=piv-web&fr=mcafee&tt=Premium+AI+Image+%7C+Solar+panel+cell+smart+grid+AI+generated&b=0&ni=21&no=5&ts=&tab=organic&sigr=geoyNYcJXKc.&sigb=D2A7.C0hknE0&sigi=brAg20kzlOm3&sigt=vXGxzYC.U1JE&.crumb=BbZB7qik6/R&fr=mcafee&fr2=piv-web&type=E210IN885G91938)  
 
 ---
 
